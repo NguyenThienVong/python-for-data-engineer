@@ -1,0 +1,268 @@
+order_id,order_date,city,product_id,quantity,unit_price,reason
+1054,2026-03-02,Nairobi,P02,2,,missing unit_price
+1066,2026-02-24,Lima,P03,4,,missing unit_price
+1114,2026-03-21,Berlin,P03,1,30.0,duplicated order_id
+1127,2026-02-28,Nairobi,P01,5,10.0,duplicated order_id
+1129,2026-02-01,Austin,P04,1,,missing unit_price
+1160,2026-03-14,Austin,P01,4,10.0,duplicated order_id
+1162,2026-01-21,Berlin,P01,1,,missing unit_price
+1188,2026-03-10,Austin,P01,2,10.0,duplicated order_id
+1189,2026-03-03,Berlin,P02,5,20.0,duplicated order_id
+1212,2026-01-15,Lima,P04,2,,missing unit_price
+1215,2026-02-26,Lahore,P03,4,,missing unit_price
+1217,2026-02-26,Lahore,P04,-1,40.0,quantity not positive
+1225,2026-03-27,Lahore,P03,-1,30.0,quantity not positive
+1238,2026-03-07,Berlin,P03,4,30.0,duplicated order_id
+1252,2026-01-02,Austin,P04,4,40.0,duplicated order_id
+1260,2026-03-30,Berlin,P02,1,,missing unit_price
+1271,2026-02-08,Austin,P04,4,,missing unit_price
+1275,2026-03-14,Lahore,P01,5,,missing unit_price
+1323,2026-01-13,Lahore,P04,5,40.0,duplicated order_id
+1340,2026-03-19,Berlin,P01,1,10.0,duplicated order_id
+1373,2026-03-29,Lima,P04,5,40.0,duplicated order_id
+1379,2026-02-06,Lahore,P03,-1,30.0,quantity not positive
+1392,2026-02-09,Nairobi,P03,2,,missing unit_price
+1429,2026-01-24,Lahore,P04,-1,40.0,quantity not positive
+1441,2026-03-24,Austin,P01,3,,missing unit_price
+1456,2026-03-24,Berlin,P02,3,,missing unit_price
+1460,2026-03-09,Berlin,P02,4,,missing unit_price
+1481,2026-01-21,Berlin,P02,-1,20.0,quantity not positive
+1533,2026-01-08,Austin,P04,5,40.0,duplicated order_id
+1539,2026-03-30,Nairobi,P02,3,,missing unit_price
+1549,2026-02-22,Berlin,P01,4,,missing unit_price
+1554,2026-01-23,Nairobi,P01,-1,10.0,quantity not positive
+1557,2026-02-12,Berlin,P01,4,,missing unit_price
+1563,2026-03-07,Berlin,P04,-1,40.0,quantity not positive
+1565,2026-03-03,Berlin,P02,2,,missing unit_price
+1577,2026-01-08,Lima,P01,5,10.0,duplicated order_id
+1621,2026-01-02,Austin,P03,2,,missing unit_price
+1623,2026-02-20,Austin,P02,5,,missing unit_price
+1699,2026-03-11,Lahore,P04,3,,missing unit_price
+1718,2026-03-20,Austin,P01,4,,missing unit_price
+1727,2026-03-20,Lima,P03,1,30.0,duplicated order_id
+1728,2026-02-10,Lahore,P02,2,,missing unit_price
+1747,2026-01-27,Lima,P02,3,,missing unit_price
+1772,2026-03-25,Lahore,P04,-1,40.0,quantity not positive
+1774,2026-03-17,Austin,P02,-1,20.0,quantity not positive
+1775,2026-01-02,Lahore,P04,3,,missing unit_price
+1796,2026-01-08,Nairobi,P01,5,,missing unit_price
+1801,2026-02-20,Lima,P03,1,30.0,duplicated order_id
+1802,2026-03-31,Nairobi,P03,2,,missing unit_price
+1805,2026-02-09,Austin,P01,1,10.0,duplicated order_id
+1814,2026-02-02,Lahore,P02,5,20.0,duplicated order_id
+1815,2026-01-30,Lima,P01,1,,missing unit_price
+1837,2026-03-23,Nairobi,P02,1,,missing unit_price
+1840,2026-02-10,Nairobi,P03,-1,30.0,quantity not positive
+1901,2026-01-22,Nairobi,P04,4,40.0,duplicated order_id
+1930,2026-01-16,Nairobi,P02,2,20.0,duplicated order_id
+1932,2026-02-24,Lahore,P01,4,10.0,duplicated order_id
+1949,2026-01-18,Berlin,P02,4,20.0,duplicated order_id
+1955,2026-01-23,Austin,P01,2,,missing unit_price
+1970,2026-03-24,Berlin,P03,4,,missing unit_price
+1974,2026-03-13,Lima,P03,-1,30.0,quantity not positive
+2024,2026-01-26,Lima,P04,2,,missing unit_price
+2043,2026-03-14,Nairobi,P04,2,40.0,duplicated order_id
+2062,2026-02-13,Berlin,P04,1,,missing unit_price
+2092,2026-02-15,Nairobi,P01,1,,missing unit_price
+2104,2026-01-06,Austin,P02,3,20.0,duplicated order_id
+2174,2026-01-14,Lima,P03,-1,30.0,quantity not positive
+2182,2026-01-28,Austin,P03,2,30.0,duplicated order_id
+2186,2026-03-17,Austin,P02,-1,20.0,quantity not positive
+2226,2026-03-18,Lahore,P03,2,30.0,duplicated order_id
+2232,2026-02-21,Lima,P04,2,40.0,duplicated order_id
+2258,2026-02-20,Austin,P03,5,30.0,duplicated order_id
+2305,2026-01-12,Nairobi,P02,3,,missing unit_price
+2330,2026-01-16,Austin,P01,4,10.0,duplicated order_id
+2345,2026-01-17,Nairobi,P01,2,,missing unit_price
+2348,2026-02-02,Lahore,P02,-1,20.0,quantity not positive
+2369,2026-03-09,Lahore,P03,1,,missing unit_price
+2400,2026-01-07,Nairobi,P02,-1,20.0,quantity not positive
+2403,2026-03-02,Lima,P01,1,10.0,duplicated order_id
+2420,2026-01-27,Lima,P02,5,20.0,duplicated order_id
+2463,2026-03-08,Lahore,P01,4,,missing unit_price
+2474,2026-02-28,Lahore,P02,3,,missing unit_price
+2487,2026-02-28,Nairobi,P04,-1,40.0,quantity not positive
+2489,2026-03-12,Berlin,P02,5,20.0,duplicated order_id
+2498,2026-02-18,Lahore,P03,4,30.0,duplicated order_id
+2508,2026-01-01,Lahore,P02,1,,missing unit_price
+2542,2026-03-27,Lahore,P04,3,40.0,duplicated order_id
+2585,2026-02-18,Nairobi,P03,4,,missing unit_price
+2623,2026-03-10,Austin,P04,-1,40.0,quantity not positive
+2676,2026-03-17,Lahore,P02,1,,missing unit_price
+2692,2026-03-18,Austin,P01,4,10.0,duplicated order_id
+2731,2026-02-28,Nairobi,P01,2,,missing unit_price
+2732,2026-01-24,Berlin,P04,4,,missing unit_price
+2742,2026-03-25,Nairobi,P01,-1,10.0,quantity not positive
+2751,2026-01-14,Austin,P01,3,10.0,duplicated order_id
+2847,2026-03-29,Nairobi,P03,2,,missing unit_price
+2882,2026-02-24,Berlin,P01,3,,missing unit_price
+2887,2026-01-05,Nairobi,P03,-1,30.0,quantity not positive
+2903,2026-03-27,Lima,P04,2,40.0,duplicated order_id
+2905,2026-01-28,Nairobi,P04,3,40.0,duplicated order_id
+2937,2026-02-08,Austin,P02,2,20.0,duplicated order_id
+2944,2026-03-22,Nairobi,P02,2,,missing unit_price
+2950,2026-02-06,Austin,P03,1,30.0,duplicated order_id
+2963,2026-03-28,Austin,P03,4,30.0,duplicated order_id
+2999,2026-03-18,Lahore,P03,3,,missing unit_price
+3011,2026-02-04,Lima,P04,5,40.0,duplicated order_id
+3025,2026-01-11,Nairobi,P01,3,,missing unit_price
+3033,2026-03-21,Lima,P03,3,,missing unit_price
+3070,2026-03-30,Lima,P02,5,20.0,duplicated order_id
+3087,2026-01-08,Nairobi,P04,1,,missing unit_price
+3099,2026-01-31,Berlin,P03,4,,missing unit_price
+3114,2026-01-19,Lima,P02,2,20.0,duplicated order_id
+3132,2026-02-19,Austin,P04,4,,missing unit_price
+3150,2026-01-04,Lahore,P02,3,20.0,duplicated order_id
+3161,2026-03-23,Lima,P01,2,,missing unit_price
+3163,2026-03-10,Nairobi,P02,5,20.0,duplicated order_id
+3165,2026-03-25,Austin,P03,1,,missing unit_price
+3167,2026-03-29,Nairobi,P03,3,30.0,duplicated order_id
+3256,2026-02-01,Lahore,P03,3,,missing unit_price
+3278,2026-02-12,Austin,P02,-1,20.0,quantity not positive
+3332,2026-01-23,Berlin,P01,1,,missing unit_price
+3365,2026-01-31,Lima,P01,4,10.0,duplicated order_id
+3428,2026-01-13,Lahore,P03,4,,missing unit_price
+3430,2026-03-09,Berlin,P01,2,,missing unit_price
+3515,2026-03-29,Lima,P01,4,10.0,duplicated order_id
+3521,2026-01-13,Lima,P04,3,40.0,duplicated order_id
+3522,2026-03-12,Berlin,P03,-1,30.0,quantity not positive
+3524,2026-01-24,Berlin,P04,5,40.0,duplicated order_id
+3527,2026-01-19,Nairobi,P02,5,,missing unit_price
+3549,2026-03-01,Lima,P01,4,,missing unit_price
+3568,2026-01-14,Lahore,P01,-1,10.0,quantity not positive
+3577,2026-01-25,Lima,P02,2,20.0,duplicated order_id
+3596,2026-01-06,Lima,P01,-1,10.0,quantity not positive
+3603,2026-01-22,Lima,P01,3,10.0,duplicated order_id
+3609,2026-01-27,Austin,P03,1,,missing unit_price
+3661,2026-02-05,Austin,P04,1,40.0,duplicated order_id
+3691,2026-01-29,Nairobi,P01,2,10.0,duplicated order_id
+3740,2026-03-11,Austin,P01,4,,missing unit_price
+3781,2026-03-28,Austin,P04,1,,missing unit_price
+3798,2026-02-03,Lahore,P04,3,,missing unit_price
+3817,2026-03-03,Austin,P03,1,30.0,duplicated order_id
+3835,2026-01-30,Lima,P03,1,30.0,duplicated order_id
+3861,2026-01-16,Austin,P04,-1,40.0,quantity not positive
+3874,2026-02-27,Lima,P04,5,,missing unit_price
+3876,2026-02-24,Austin,P03,3,,missing unit_price
+3912,2026-01-15,Berlin,P04,-1,40.0,quantity not positive
+3936,2026-01-13,Berlin,P04,3,40.0,duplicated order_id
+3938,2026-03-16,Austin,P03,2,,missing unit_price
+3939,2026-01-18,Nairobi,P03,5,30.0,duplicated order_id
+3975,2026-01-02,Lima,P04,3,,missing unit_price
+3984,2026-03-02,Lima,P04,2,40.0,duplicated order_id
+3989,2026-02-11,Austin,P04,2,40.0,duplicated order_id
+4014,2026-03-16,Nairobi,P01,3,,missing unit_price
+4028,2026-01-15,Nairobi,P02,1,,missing unit_price
+4041,2026-03-09,Berlin,P02,3,,missing unit_price
+4122,2026-02-13,Lahore,P04,-1,40.0,quantity not positive
+4128,2026-02-26,Austin,P04,-1,40.0,quantity not positive
+4142,2026-01-05,Nairobi,P03,1,,missing unit_price
+4150,2026-01-23,Lahore,P02,4,20.0,duplicated order_id
+4158,2026-01-15,Austin,P04,4,40.0,duplicated order_id
+4177,2026-01-02,Lahore,P02,1,,missing unit_price
+4181,2026-01-16,Nairobi,P03,4,30.0,duplicated order_id
+4202,2026-02-13,Austin,P03,-1,30.0,quantity not positive
+4221,2026-01-20,Nairobi,P02,-1,20.0,quantity not positive
+4231,2026-02-05,Austin,P02,3,20.0,duplicated order_id
+4236,2026-03-20,Austin,P01,-1,10.0,quantity not positive
+4242,2026-02-09,Lima,P03,3,,missing unit_price
+4246,2026-03-25,Berlin,P04,-1,40.0,quantity not positive
+4256,2026-03-15,Lahore,P01,4,,missing unit_price
+4281,2026-03-31,Nairobi,P03,3,,missing unit_price
+4284,2026-01-05,Lima,P02,4,20.0,duplicated order_id
+4337,2026-03-02,Berlin,P03,5,30.0,duplicated order_id
+4347,2026-02-15,Nairobi,P03,-1,30.0,quantity not positive
+4362,2026-01-28,Nairobi,P04,-1,40.0,quantity not positive
+4373,2026-02-13,Berlin,P03,-1,30.0,quantity not positive
+4374,2026-01-20,Nairobi,P04,4,,missing unit_price
+4420,2026-02-28,Nairobi,P01,2,,missing unit_price
+4434,2026-03-17,Lima,P02,3,,missing unit_price
+4440,2026-02-15,Nairobi,P02,-1,20.0,quantity not positive
+4462,2026-03-10,Austin,P03,-1,30.0,quantity not positive
+4469,2026-01-14,Austin,P02,2,,missing unit_price
+4487,2026-01-21,Berlin,P02,4,,missing unit_price
+4509,2026-03-10,Austin,P01,5,,missing unit_price
+4513,2026-01-24,Lima,P01,3,10.0,duplicated order_id
+4515,2026-03-15,Berlin,P04,1,40.0,duplicated order_id
+4548,2026-01-23,Austin,P04,5,,missing unit_price
+4556,2026-01-13,Lahore,P02,3,,missing unit_price
+4570,2026-03-26,Austin,P03,5,30.0,duplicated order_id
+4574,2026-03-15,Nairobi,P01,4,,missing unit_price
+4578,2026-03-25,Lima,P03,3,,missing unit_price
+4582,2026-02-24,Lahore,P03,5,30.0,duplicated order_id
+4602,2026-01-21,Nairobi,P04,-1,40.0,quantity not positive
+4616,2026-01-31,Nairobi,P03,4,30.0,duplicated order_id
+4620,2026-01-02,Lahore,P01,4,10.0,duplicated order_id
+4621,2026-03-16,Nairobi,P02,2,20.0,duplicated order_id
+4623,2026-03-13,Lima,P04,5,40.0,duplicated order_id
+4627,2026-02-16,Lima,P02,5,,missing unit_price
+4629,2026-02-28,Lima,P04,5,,missing unit_price
+4638,2026-01-12,Berlin,P04,3,,missing unit_price
+4687,2026-01-23,Nairobi,P03,3,30.0,duplicated order_id
+4692,2026-03-29,Berlin,P01,1,,missing unit_price
+4742,2026-01-16,Nairobi,P01,2,10.0,duplicated order_id
+4747,2026-01-31,Nairobi,P01,-1,10.0,quantity not positive
+4765,2026-01-03,Nairobi,P01,5,,missing unit_price
+4765,2026-01-03,Nairobi,P01,5,,missing unit_price
+4770,2026-01-19,Berlin,P02,2,20.0,duplicated order_id
+4809,2026-02-13,Lahore,P03,3,,missing unit_price
+4818,2026-03-25,Austin,P01,-1,10.0,quantity not positive
+4826,2026-02-13,Austin,P04,3,40.0,duplicated order_id
+4891,2026-02-19,Austin,P04,3,40.0,duplicated order_id
+4921,2026-01-21,Lahore,P04,-1,40.0,quantity not positive
+4989,2026-02-22,Lahore,P03,2,30.0,duplicated order_id
+4993,2026-03-11,Lahore,P02,2,20.0,duplicated order_id
+5014,2026-03-01,Berlin,P02,5,,missing unit_price
+5039,2026-01-08,Lima,P03,1,,missing unit_price
+5070,2026-03-30,Berlin,P02,2,20.0,duplicated order_id
+5088,2026-01-13,Nairobi,P02,2,20.0,duplicated order_id
+5099,2026-02-22,Austin,P02,2,,missing unit_price
+5120,2026-02-16,Berlin,P03,4,,missing unit_price
+5130,2026-03-15,Austin,P01,3,,missing unit_price
+5142,2026-01-15,Austin,P02,2,,missing unit_price
+5170,2026-02-14,Lima,P04,3,40.0,duplicated order_id
+5180,2026-02-23,Austin,P02,-1,20.0,quantity not positive
+5194,2026-01-29,Austin,P02,4,20.0,duplicated order_id
+5216,2026-02-04,Lima,P01,3,10.0,duplicated order_id
+5243,2026-01-05,Lahore,P04,-1,40.0,quantity not positive
+5254,2026-03-27,Lima,P02,3,,missing unit_price
+5282,2026-03-17,Lahore,P04,2,,missing unit_price
+5294,2026-01-05,Lahore,P03,1,,missing unit_price
+5317,2026-01-01,Lima,P04,3,,missing unit_price
+5342,2026-02-22,Lahore,P02,-1,20.0,quantity not positive
+5359,2026-03-14,Berlin,P04,1,,missing unit_price
+5361,2026-02-24,Berlin,P03,3,30.0,duplicated order_id
+5368,2026-01-30,Nairobi,P02,1,20.0,duplicated order_id
+5379,2026-02-22,Berlin,P02,1,,missing unit_price
+5418,2026-01-11,Austin,P01,4,10.0,duplicated order_id
+5430,2026-03-26,Berlin,P01,2,,missing unit_price
+5431,2026-02-14,Berlin,P04,1,,missing unit_price
+5433,2026-02-21,Nairobi,P02,5,20.0,duplicated order_id
+5470,2026-01-14,Lahore,P02,1,20.0,duplicated order_id
+5496,2026-02-12,Berlin,P03,4,30.0,duplicated order_id
+5511,2026-03-21,Austin,P02,5,,missing unit_price
+5512,2026-02-07,Lahore,P03,1,30.0,duplicated order_id
+5514,2026-01-25,Berlin,P04,3,40.0,duplicated order_id
+5548,2026-03-13,Nairobi,P01,4,10.0,duplicated order_id
+5565,2026-02-17,Austin,P01,3,10.0,duplicated order_id
+5575,2026-02-28,Austin,P02,1,,missing unit_price
+5578,2026-03-11,Lahore,P04,4,40.0,duplicated order_id
+5589,2026-01-13,Nairobi,P01,-1,10.0,quantity not positive
+5591,2026-03-29,Berlin,P02,-1,20.0,quantity not positive
+5638,2026-02-19,Nairobi,P03,5,,missing unit_price
+5648,2026-01-11,Berlin,P03,2,30.0,duplicated order_id
+5703,2026-01-23,Lima,P02,-1,20.0,quantity not positive
+5734,2026-03-20,Lahore,P04,2,40.0,duplicated order_id
+5776,2026-01-02,Lima,P03,-1,30.0,quantity not positive
+5795,2026-03-29,Lahore,P02,2,20.0,duplicated order_id
+5798,2026-03-05,Lima,P04,4,40.0,duplicated order_id
+5800,2026-02-17,Nairobi,P01,5,10.0,duplicated order_id
+5837,2026-03-27,Lahore,P02,3,20.0,duplicated order_id
+5856,2026-01-31,Berlin,P01,-1,10.0,quantity not positive
+5883,2026-02-19,Lima,P04,-1,40.0,quantity not positive
+5890,2026-01-01,Lima,P02,5,20.0,duplicated order_id
+5893,2026-02-03,Nairobi,P02,4,20.0,duplicated order_id
+5911,2026-03-11,Lima,P01,1,10.0,duplicated order_id
+5915,2026-02-11,Lima,P02,2,20.0,duplicated order_id
+5976,2026-02-27,Nairobi,P01,4,,missing unit_price
+5980,2026-02-15,Lahore,P04,-1,40.0,quantity not positive
